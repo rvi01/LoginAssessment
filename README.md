@@ -24,3 +24,10 @@ Step to load the project:
 
 5> tadaa project is started.
 
+
+I still have somthing in mind for next update like admin role, admin permission, user list, more details user data. please let me know if you are intrested in all this topics.
+
+looking forward to see you guys 
+
+Thank you
+Ravi Bhatt
