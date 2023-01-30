@@ -18,7 +18,9 @@ Step to load the project:
 
 2> open the console in client and server folder and run command 'npm install' for requier npm package
 
-3> Run the command 'npm run start' in same client and server folder console.
+3> install mongodb v.5.0.14 and start on local server
 
-4> tadaa project is started.
+4> Run the command 'npm run start' in same client and server folder console.
+
+5> tadaa project is started.
 
