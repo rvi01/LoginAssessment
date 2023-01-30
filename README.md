@@ -15,7 +15,10 @@ Hey guys i already made the similar project earlier so i transfer the same proje
 Step to load the project:
 
 1> clone the project in with 'git clone' command using this url 'https://github.com/rvi01/LoginAssessment.git'
+
 2> open the console in client and server folder and run command 'npm install' for requier npm package
+
 3> Run the command 'npm run start' in same client and server folder console.
+
 4> tadaa project is started.
 
