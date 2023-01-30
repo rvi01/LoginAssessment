@@ -22,6 +22,17 @@ const UserNav = () => (
         </Link>
       </li>
     </ul>
+    <ul className="nav flex-column">
+      <li className="nav-item">
+        Education course 1
+      </li>
+      <li className="nav-item">
+        Education course 2
+      </li>
+      <li className="nav-item">
+        Education course 3
+      </li>
+    </ul>
   </nav>
 );
 
