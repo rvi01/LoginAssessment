@@ -10,7 +10,7 @@ NPM :- 6.14.15
 
 MONGODB :- 5.0.14
 
-Hey guys i already made the similar project earlier so i transfer the same project and updated it with google login. Please use mentioned node and mongodb version to run the project.
+Hey guys i have completed the project and this are the step to download and start the project. I hope you like the project this is still in starting phase, i am open to all good suggestion and update so i can upgrade the project. please let me know 
 
 Step to load the project:
 
